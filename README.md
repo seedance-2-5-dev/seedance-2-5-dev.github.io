@@ -19,3 +19,5 @@ This release is for people whose shot list keeps breaking at the fifteen-second 
 ---
 
 *This is an independent page written by a third party; it is not the official site, is not affiliated with the vendor, and all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
